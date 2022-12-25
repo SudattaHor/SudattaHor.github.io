@@ -1,3 +1,11 @@
+TODO:
+- Add PGD for VQAs
+- add presentation section
+    - add expander codes presentation
+- add crypto algorithms
+- Portfolio -> projects
+- get feedback on Bio
+
 Personal website using the template described below.
 ___
 
