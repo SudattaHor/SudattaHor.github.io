@@ -1,6 +1,6 @@
 ---
 title: "Uncertainty Quantification in High Explosive Equations of State"
-excerpt: 'Conducted at Los Alamos National Laboratory. Physics informed machine learning (variational Bayesian inference) to quantify uncertainty of optimized model parameters'
+excerpt: 'Conducted at Los Alamos National Laboratory. Physics informed machine learning (variational Bayesian inference) to quantify uncertainty of optimized model parameters.'
 collection: portfolio
 ---
 
@@ -12,4 +12,4 @@ results agree between individual shots. This work aims to
 determine if shots of the Pemberton experiment can be used as
 one collective result, or if each run should be treated separately.
 
-[Download poster here](http://academicpages.github.io/files/poster-heuq.pdf)
+[Download poster here](http://sudattahor.github.io/files/poster-heuq.pdf)
