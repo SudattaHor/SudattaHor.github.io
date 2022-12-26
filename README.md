@@ -6,6 +6,8 @@ TODO:
 <!-- - add RESUME/CV -->
 <!-- - Portfolio -> projects -->
 <!-- - get feedback on Bio -->
+- add presentation slides for PGD-for-VQAs
+- figure out publication dates
 
 Personal website using the template described below.
 ___
