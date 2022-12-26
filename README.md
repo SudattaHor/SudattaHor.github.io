@@ -3,6 +3,7 @@ TODO:
 - add presentation section
     - add expander codes presentation
 - add crypto algorithms
+- add RESUME/CV
 - Portfolio -> projects
 - get feedback on Bio
 
