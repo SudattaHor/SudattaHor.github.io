@@ -10,13 +10,16 @@ main:
   #   url: /teaching/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   # - title: "CV"
-  #   url: /cv/
+    # url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
+
+  - title: "Resume"
+    url: https://sudattahor.github.io/files/resume.pdf
