@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty Quantification in High Explosive Equations of State"
 excerpt: 'Conducted at Los Alamos National Laboratory. Physics informed machine learning (variational Bayesian inference) to quantify uncertainty of optimized model parameters.'
-collection: portfolio
+collection: projects
 ---
 
 Equations of state (EOS) are essential in characterizing high
