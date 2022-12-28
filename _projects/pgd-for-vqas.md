@@ -1,6 +1,6 @@
 ---
 title: "Escaping saddle points in variational quantum algorithms with perturbed gradient descent"
-excerpt: 'Numerical experiments using Pennylane. Investigates the use of stochasticity to escape saddle points in
+excerpt: 'Numerical experiments using Pennylane to investigate the use of stochasticity to escape saddle points in
 variational quantum algorithms (VQAs). Provides evidence that additional stochasticity can escape saddle
 points, but may also lead to worse solutions.'
 collection: projects
